@@ -1,0 +1,1 @@
+The goal of this project is to advise a new business owner in Singapore on where they would want to setup a new company by using Python to create models that predict the viability and profitability of setting up a business in a certain area. The main problem that I would like to specify is that of “how do we determine the profitability of the location”.

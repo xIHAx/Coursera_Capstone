@@ -1,0 +1,1 @@
+The data i will be using is "Hawker centers in Singapore" this dataset contains the geojson data of every single hawker center in Singapore which are food centers that contain a lot of food stalls.
