@@ -1,1 +1,3 @@
 The goal of this project is to advise a new business owner in Singapore on where they would want to setup a new company by using Python to create models that predict the viability and profitability of setting up a business in a certain area. The main problem that I would like to specify is that of “how do we determine the profitability of the location”.
+
+So the things that I was looking for in the final result is the hawker center with the lowest ratio of cooked food stalls to available stalls as this would provide for the lowest competition in the area. As Hawker centers are government owned, it would make sense that they are already in the most optimal location for business and foot traffic. Thus I did not really rely on location data as much.
